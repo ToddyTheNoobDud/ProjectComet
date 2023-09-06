@@ -3,7 +3,7 @@
 **To Run my Scripts you need this:**
 
 ```lua
-print("soon")
+loadstring(game:HttpGet('https://raw.githubusercontent.com/ToddyTheNoobDud/ProjectComet/main/magic.lua'))()
 ```
 
 
